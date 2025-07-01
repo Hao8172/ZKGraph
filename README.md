@@ -2,6 +2,7 @@ This project requires Rust and its package manager, Cargo.
 
 You can run any of the programs defined in the `src/bin/` directory using Cargo, like
 ```sh
+cargo run --bin is1 --release
 cargo run --bin ic1 --release
 ```
 
